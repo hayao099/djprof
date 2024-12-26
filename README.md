@@ -11,4 +11,4 @@
     * DJミキサー
     * ターンテーブル (CDJでの対応も可能です)
 * アーティスト写真 : 
-![ba](表示させたい画像のURL)
+![ba](https://github.com/hayao099/djprof/blob/main/image/ba.jpg?raw=true)
