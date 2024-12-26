@@ -10,5 +10,5 @@
   * 使用させていただきたい店内使用機材
     * DJミキサー
     * ターンテーブル (CDJでの対応も可能です)
-* アーティスト写真 : 
+* アーティスト写真 :  
 ![ba](https://github.com/hayao099/djprof/blob/main/image/ba.jpg?raw=true)
